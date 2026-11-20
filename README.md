@@ -53,6 +53,6 @@ Lately I've been drawn to software that works without a server in the middle: mo
 
 ## What's next
 
-I'm looking for a team to build with. If that sounds like yours, say hello on [X](https://x.com/ElioCodes) or [LinkedIn](https://linkedin.com/in/lopeselio).
+I'm looking for a full-time role on a team I can build with. If that sounds like yours, say hello on [X](https://x.com/ElioCodes) or [LinkedIn](https://linkedin.com/in/lopeselio).
 
 The full story, told as a speedrun: **[lopeselio.online](https://lopeselio.online)**
