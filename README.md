@@ -20,12 +20,6 @@ Along the way the studio took 1st place in the games track at Solana Summer Camp
 
 Shipping a Unity game to a phone meant running into gaps in the tools, so I started closing them in the open. In [Solana.Unity-SDK](https://github.com/magicblock-labs/Solana.Unity-SDK) that meant wallet signing for Solana Seeker, readable `.skr` names in place of wallet addresses, and a fix for social login. Each one came from a problem in a real game.
 
-Other open-source contributions so far:
-
-- **Solana Foundation**: documentation fixes in [subscriptions](https://github.com/solana-foundation/subscriptions) and [solana-com](https://github.com/solana-foundation/solana-com).
-- **Dark Research**: documented a Google sign-in fix for [mallory](https://github.com/darkresearch/mallory), their React Native crypto and AI chat app.
-- **Celo**: wrote the Celo India DAO governance proposal (CGP-0064) in [celo-org/governance](https://github.com/celo-org/governance), and added to the [Celo docs](https://github.com/celo-org/docs).
-
 I also publish smaller libraries when I need them:
 
 - [aptos-sigil](https://github.com/lopeselio/aptos-sigil): leaderboards, achievements, quests and gasless play for Aptos games, with a TypeScript SDK.
