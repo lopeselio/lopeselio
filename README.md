@@ -1,6 +1,6 @@
 # Elio Jordan Lopes
 
-Software engineer and game studio co-founder, based in Dubai. I build full-stack web and mobile apps, on-chain games and DeFi apps (Solana, EVM, NEAR, Move).
+Software engineer, previously a game studio co-founder, based in Dubai. I build full-stack web and mobile apps, on-chain games and DeFi apps (Solana, EVM, NEAR, Move).
 
 Superteam India member · Chainlink Developer Expert · **open to software development roles**
 
@@ -14,7 +14,6 @@ I got into this through hackathons at university. One early project, a pay-as-yo
 
 In 2021 I co-founded [IntoTheVerse](https://github.com/IntoTheVerse), a game studio. We were picked for Celo Camp that year, and over the next four years the team grew to 16 people and shipped games across six chains.
 
-- **MetaMeadow Boomtown**: a town builder on Celo that retires real carbon credits.
 - **Intrant Inferis**: a story-driven dungeon RPG for mobile on Solana, which we took to Solana Breakpoint in Amsterdam for live playtests.
 - **Cryptara Conquest**: a fully on-chain survival shooter. It won the Solana Speedrun Game Jam, launched on Eclipse mainnet in January 2025, and reached 13K+ players and 2M+ transactions in its first six weeks. It later came to Android through the Solana dApp Store.
 - **[Sushi Nads](https://sushinads.fun)**: a cooking game on Monad with gasless play and on-chain scoring.
