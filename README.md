@@ -6,10 +6,6 @@ Superteam India member · Chainlink Developer Expert · **open to software devel
 
 [Website](https://lopeselio.online) · [X](https://x.com/ElioCodes) · [LinkedIn](https://linkedin.com/in/lopeselio)
 
-## Where it started
-
-I got into this through hackathons at university. One early project, a pay-as-you-use video streaming service on Ethereum and IPFS built at ETHGlobal HackMoney, won a Protocol Labs grant and later became a paper in *Wireless Networks* (Springer).
-
 ## The studio years
 
 In 2021 I co-founded [IntoTheVerse](https://github.com/IntoTheVerse), a game studio. We were picked for Celo Camp that year, and over the next four years the team grew to 16 people and shipped games across six chains.
